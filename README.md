@@ -6,17 +6,11 @@ A clean, beginner-friendly web application that shows the current weather of any
 
 ## ✨ Features
 
-- 🔍 Search for weather by city name
-- 🌡️ Displays temperature, humidity, and weather conditions
-- 🌐 Uses real-time data from OpenWeatherMap API
-- 📱 Fully responsive for all screen sizes
+- 🔍 Search for weather by city name  
+- 🌡️ Displays temperature, humidity, and weather conditions  
+- 🌐 Uses real-time data from OpenWeatherMap API  
+- 📱 Fully responsive for all screen sizes  
 - 💾 Built with pure HTML, CSS & JavaScript — no frameworks
-
----
-
-## 📸 Preview
-
-![Screenshot](screenshot.png) <!-- Optional: Add a screenshot of your app here -->
 
 ---
 
@@ -28,9 +22,9 @@ A clean, beginner-friendly web application that shows the current weather of any
 
 ## 💻 Technologies Used
 
-- HTML
-- CSS
-- JavaScript (Fetch API)
+- HTML  
+- CSS  
+- JavaScript (Fetch API)  
 - OpenWeatherMap API
 
 ---
